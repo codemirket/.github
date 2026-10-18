@@ -31,4 +31,4 @@ For the harness, explore the [contribution guide](https://github.com/codemirket/
 
 ---
 
-[mirket.dev](https://mirket.dev) · [Contact Mirket](mailto:nazmi.yilmaz@mirket.dev)
+[mirket.dev](https://mirket.dev) · [LinkedIn](https://www.linkedin.com/company/codemirket/) · [Contact Mirket](mailto:nazmi.yilmaz@mirket.dev)
