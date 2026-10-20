@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="215" viewBox="0 0 600 215"><title>Mirket Software</title><desc>Products. Systems. Developer tools.</desc><rect width="600" height="215" rx="12" fill="#171519"/><path d="M32 38h40" stroke="#f2769e" stroke-width="5"/><text x="30" y="116" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="700" letter-spacing="-2" fill="#faf5f7">Mirket Software</text><text x="32" y="163" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#c7bbc2">Products. Systems. Developer tools.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+<title id="title">Mirket Software</title><desc id="desc">Connected learning. Practical developer tools. Mirket LMS and Mirket harness.</desc>
+<rect width="600" height="260" rx="12" fill="#171519"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="32" y="45" font-size="17" font-weight="700" letter-spacing="2" fill="#f2769e">MIRKET SOFTWARE</text>
+<text x="30" y="108" font-size="43" font-weight="700" letter-spacing="-1.6" fill="#faf5f7">Connected learning.</text>
+<text x="32" y="153" font-size="33" fill="#faf5f7">Practical developer tools.</text>
+<text x="32" y="218" font-size="20" fill="#c7bbc2">Mirket LMS · Mirket harness</text></g></svg>

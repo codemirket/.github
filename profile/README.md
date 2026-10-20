@@ -2,16 +2,16 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codemirket/.github/main/profile/assets/header-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/codemirket/.github/main/profile/assets/header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codemirket/.github/main/profile/assets/header-dark.svg">
-  <img alt="Mirket Software — Software products. Systems. Developer tools." src="https://raw.githubusercontent.com/codemirket/.github/main/profile/assets/header-light.svg" width="100%">
+  <img alt="Mirket Software — Connected learning. Practical developer tools." src="https://raw.githubusercontent.com/codemirket/.github/main/profile/assets/header-light.svg" width="100%">
 </picture>
 
-We build software products and the tools behind them. Founded by [Nazmi Yılmaz](https://github.com/nazmirket), Mirket Software brings product development, system architecture, and infrastructure together.
+Mirket Software builds connected learning software and practical developer tools. Our products are Mirket LMS and Mirket harness. Founded by [Nazmi Yılmaz](https://github.com/nazmirket) in Antalya, Türkiye.
 
 ## Mirket LMS
 
-**Complete learning. Entirely yours.**
+**Everything learning needs. Connected.**
 
-A learning environment that connects teaching, assessment, communication, collaboration, and administration. Each installation is dedicated to one organization, with on-premise or Mirket-managed deployment.
+Mirket LMS brings course work, assessment, collaboration, and administration into one environment dedicated to your organization. Run it on your infrastructure or choose a dedicated instance managed by Mirket. The first production release is in preparation; see mirket.dev for current availability.
 
 [Explore Mirket LMS →](https://mirket.dev)
 
