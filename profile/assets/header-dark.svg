@@ -1,7 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
-<title id="title">Mirket Software</title><desc id="desc">Mirket LMS: Connected learning, dedicated to your organization.</desc>
-<rect width="1000" height="300" rx="12" fill="#171519"/>
-<g font-family="Arial,Helvetica,sans-serif"><text x="44" y="45" font-size="17" font-weight="700" letter-spacing="2" fill="#f2769e">MIRKET SOFTWARE</text>
-<text x="42" y="119" font-size="49" font-weight="700" letter-spacing="-1.6" fill="#faf5f7">Connected learning.</text>
-<text x="44" y="169" font-size="38" fill="#faf5f7">Dedicated to your organization.</text>
-<text x="44" y="244" font-size="21" fill="#c7bbc2">Mirket LMS</text></g><g fill="none" stroke="#45333e" stroke-width="2"><path d="M764 86h164v128H764z M788 110h164v128H788z M740 62h164v128H740z M740 126h164M822 62v128"/></g><path d="M788 174h50v40h-50z" fill="#f2769e"/><circle cx="904" cy="126" r="6" fill="#f2769e"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111015"/><stop offset="1" stop-color="#26121e"/></linearGradient>
+</defs>
+<rect width="1000" height="300" fill="#151017"/>
+<path d="M75 50h80" stroke="#e487aa" stroke-width="5" stroke-linecap="round"/>
+<text x="75" y="92" fill="#e487aa" font-family="Arial, sans-serif" font-size="20" font-weight="bold" letter-spacing="3">MIRKET LMS</text>
+<text x="75" y="159" fill="#f8f5f8" font-family="Arial, sans-serif" font-size="48" font-weight="bold">Everything learning needs.</text>
+<text x="75" y="220" fill="#e487aa" font-family="Arial, sans-serif" font-size="48" font-weight="bold">Connected.</text>
+<g transform="translate(720,40) scale(0.85,0.78)">
+<rect width="280" height="280" rx="24" fill="#18141c" stroke="#48343f" stroke-width="2"/>
+<path d="M24 1h232a23 23 0 0 1 23 23v34H1V24A23 23 0 0 1 24 1z" fill="#151017"/><path d="M0 58h280" stroke="#48343f" stroke-width="2"/>
+<circle cx="28" cy="29" r="4" fill="#776a76"/><circle cx="45" cy="29" r="4" fill="#776a76"/><circle cx="62" cy="29" r="4" fill="#776a76"/>
+<text x="158" y="37" text-anchor="middle" fill="#bfb3be" font-family="Arial, sans-serif" font-size="17">Mirket LMS</text>
+<rect x="28" y="91" width="224" height="5" rx="2" fill="#e487aa"/>
+<rect x="28" y="117" width="224" height="41" rx="6" fill="#251d27"/>
+<rect x="28" y="174" width="106" height="70" rx="6" fill="#251d27"/>
+<rect x="146" y="174" width="106" height="70" rx="6" fill="#251d27"/>
+<path d="M41 137h94M41 193h60M159 193h60" stroke="#554550" stroke-width="5" stroke-linecap="round"/>
+<path d="M41 215h76M159 215h76" stroke="#403641" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>
